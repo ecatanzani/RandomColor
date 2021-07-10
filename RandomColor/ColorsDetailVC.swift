@@ -13,6 +13,6 @@ class ColorsDetailVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = color ?? .blue
+        view.backgroundColor = color ?? .white
     }
 }
